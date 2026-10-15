@@ -13,7 +13,7 @@ By participating in this project, you agree to uphold our [Code of Conduct](CODE
 ## 🛠️ How to Contribute
 
 ### 1. Reporting Bugs
-- Search existing [GitHub Issues](https://github.com/pgatdesk/GenAIExchangeHumanAIzed/issues) to ensure the bug hasn't already been reported.
+- Search existing [GitHub Issues](https://github.com/pgatdesk/Legal-Demystifier/issues) to ensure the bug hasn't already been reported.
 - Open a new issue with a clear title, reproduction steps, sample document (if non-confidential), and expected behavior.
 
 ### 2. Suggesting Enhancements

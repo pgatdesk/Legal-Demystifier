@@ -90,8 +90,8 @@ Read the full technical breakdown in [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/pgatdesk/GenAIExchangeHumanAIzed.git
-cd GenAIExchangeHumanAIzed
+git clone https://github.com/pgatdesk/Legal-Demystifier.git
+cd Legal-Demystifier
 ```
 
 ### 2. Launch Local Server
