@@ -1,0 +1,21 @@
+INDEPENDENT CONTRACTOR & FREELANCE SERVICES AGREEMENT
+
+This Agreement is made between OmniBrand Media Inc. ("Client") and Alex Taylor ("Contractor").
+
+1. SCOPE OF SERVICES
+Contractor agrees to provide custom software development, UI design, and cloud deployment services as described in Statement of Work #1. Contractor shall provide unlimited revisions until Client is subjectively and completely satisfied.
+
+2. PAYMENT TERMS & HOLDBACKS
+Client shall compensate Contractor a flat fee of $6,000. Payment shall be made on Net-90 terms following final formal acceptance of all deliverables. Client reserves the right to withhold 40% of the total compensation until 180 days post-launch to ensure stability and zero bugs.
+
+3. INTELLECTUAL PROPERTY & MORAL RIGHTS WAIVER
+All deliverables, inventions, code snippets, pre-existing frameworks, design assets, and background libraries utilized by Contractor shall instantly become the exclusive property of Client as a "work made for hire". Contractor irrevocably waives all moral rights, authorship credit, and the right to showcase the work in their portfolio.
+
+4. UNLIMITED LIABILITY & INDEMNIFICATION
+Contractor warrants that all work is original and free of bugs, third-party licenses, or patent infringements. Contractor agrees to indemnify, defend, and hold Client harmless against any claims, losses, or legal fees arising from the deliverables, with unlimited financial liability extending to Contractor's personal assets.
+
+5. NON-COMPETE & EXCLUSIVITY
+During the project and for twelve (12) months following project completion, Contractor shall not perform design or development services for any company in the digital media, SaaS, or advertising sector.
+
+6. TERMINATION
+Client may terminate this Agreement immediately at any time for convenience without cause. In the event of early termination, Client shall have no obligation to pay Contractor for any work completed up to the date of termination.
